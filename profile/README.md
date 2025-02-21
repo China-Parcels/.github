@@ -17,7 +17,7 @@ Last Updates:
 
 ...
 
-[Full Supported Carriers ](https://chinaparcels.com/couriers/)
+[Supported Carriers List](https://chinaparcels.com/couriers/)
 
 
 <!--
